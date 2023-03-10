@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h4 align="left"> 💬 Ask me about PHP. </h4> 
 <h4 align="left"> 📊 I enjoy working on Web Development 🧩 and Problem solving 💻 </h4>
 <h4 align="left"> 📫 How to reach me <a href = "mailto: sakshichaudhari38@gmail.com">sakshichaudhari38@gmail.com</a> </h4>
-<h4 align="left"> 🎉 Fun-Fact: I play Basketball 🏀 and watch Breaking Bad ⚗️👨🏻‍🔬 </h4>
+<h4 align="left"> 🎉 Fun-Fact: I like to dance and paint🏔🌈</h4>
 </p>    
 </div>
 <br>
@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 <h2 align="center">Connect with me:</h2>
 
 <div align="center">
-<a href="https://linkedin.com/in/atharvashirsh-t-99648a250" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharvashirsh t" height="45" width="45" /></a>&emsp;&emsp;&emsp;&emsp;<a href="mailto:astw21209@gmail.com" target="blank"><img  src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="atharvashirsh t" height="50" width="50" /></a>
+<a href="linkedin.com/in/sakshi-chaudhari-459201215/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi chaudhari" height="45" width="45" /></a>&emsp;&emsp;&emsp;&emsp;<a href="mailto:sakshichaudhari38@gmail.com" target="blank"><img  src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="sakshi chaudhari" height="50" width="50" /></a>
 </div>
