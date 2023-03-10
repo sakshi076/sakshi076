@@ -58,5 +58,5 @@ Here are some ideas to get you started:
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60" /></a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
         
-    </p>
-    <br>
+<!--     </p>
+    <br> -->
