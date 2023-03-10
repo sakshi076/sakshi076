@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 <h2 align="center">Connect with me:</h2>
 
 <div align="center">
-<a href="linkedin.com/in/sakshi-chaudhari-459201215/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi chaudhari" height="45" width="45" /></a>&emsp;&emsp;&emsp;&emsp;<a href="mailto:sakshichaudhari38@gmail.com" target="blank"><img  src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="sakshi chaudhari" height="50" width="50" /></a>
+<a href="www.linkedin.com/in/sakshi-chaudhari-459201215" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi chaudhari" height="45" width="45" /></a>&emsp;&emsp;&emsp;&emsp;<a href="mailto:sakshichaudhari38@gmail.com" target="blank"><img  src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="sakshi chaudhari" height="50" width="50" /></a>
 </div>
