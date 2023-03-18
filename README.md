@@ -1,62 +1,28 @@
-### Hi there 👋
 
-<!--
-**sakshi076/sakshi076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sakshi Chaudhari</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi076&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi076" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
+- 🌱 I’m currently learning **reactjs**
 
-<h1> 👋 Hello Visitor 👋  <br> ⚡ I'm Sakshi Arvind Chaudhari⚡ </h1>
-<p> A inquisitive  web developer</p>
-<br>
-<div>
-<img align="right" src="consulting-consultant.gif" alt="gif" width="45%"  >
+- 💬 Ask me about **JavaScript and php**
+
+- 📄 Know about my experiences [I completed my offline internship as full stack developer](I completed my offline internship as full stack developer)
+- 📫 How to reach me **sakshichaudhari38@gmail.com**
+- ⚡ Fun fact **I love dancing and painting**
+<img align="right" alt="coding" width="400" src="https://www.windaydigital.com/wp-content/uploads/2020/12/39998-web-development.gif">
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<h4 align="left"> 🌱 I’m currently learning AWS.</h4>
-<h4 align="left"> 💬 Ask me about PHP. </h4> 
-<h4 align="left"> 📊 I enjoy working on Web Development 🧩 and Problem solving 💻 </h4>
-<h4 align="left"> 📫 How to reach me <a href = "mailto: sakshichaudhari38@gmail.com">sakshichaudhari38@gmail.com</a> </h4>
-<h4 align="left"> 🎉 Fun-Fact: I like to dance and paint🏔🌈</h4>
-</p>    
-</div>
-<br>
-<br>
+<a href="https://www.linkedin.com/in/sakshi-chaudhari-459201215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakshi-chaudhari-459201215/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/sakshichaudhari3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sakshichaudhari3" height="30" width="40" /></a>
+</p>
 
-<h2 align="center">Connect with me:</h2>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/sakshi-chaudhari-459201215/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi chaudhari" height="50" width="50" /></a>&emsp;&emsp;&emsp;&emsp;<a href="mailto:sakshichaudhari38@gmail.com" target="blank"><img  src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="sakshi chaudhari" height="50" width="50" /></a>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
 
-<div align="center">
-    <h2>Language and Tools I Know</h2>
-    <h3>Programming Languages</h3>
-    <p>
-        <br>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60" /></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" /> </a>
-        <br>
-         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" /> </a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-        <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   </p>
-<br>
-<h3>Frontend Development</h3>
-    <p>
-         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" /> </a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" /> </a>
-        <br>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60" /></a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-        
-<!--     </p>
-    <br> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi076&show_icons=true&locale=en&layout=compact" alt="sakshi076" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi076&" alt="sakshi076" /></p>
